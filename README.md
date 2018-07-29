@@ -1,17 +1,17 @@
 # LaravelApi-NuxtjsClient-SimpleCrud
 Simple Crud Using Laravel Api and NuxtJS Frontend
 
-crud-server
-dependecies install:
-compposer install
-
-Migrate Database:
-php artisan migrate
-
-
-crud-client
-dependecies Install:
-npm install
-
-run project :
-npm run dev
+<b>crud-server</b> <br>
+dependecies install:<br>
+compposer install<br>
+<br>
+Migrate Database:<br>
+php artisan migrate<br>
+<br>
+<br>
+<b>crud-client</b><br>
+dependecies Install:<br>
+npm install<br>
+<br>
+run project :<br>
+npm run dev<br>
