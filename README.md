@@ -12,6 +12,7 @@ php artisan migrate<br>
 <b>crud-client</b><br>
 dependecies Install:<br>
 npm install<br>
+edit API base_url on '~/plugins/axios.js'
 <br>
 run project :<br>
 npm run dev<br>
